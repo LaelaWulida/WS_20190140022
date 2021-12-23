@@ -1,0 +1,9 @@
+ti\webservice\ws\assesment\exceptions\PreexistingEntityException.class
+ti\webservice\ws\assesment\exceptions\IllegalOrphanException.class
+ti\webservice\ws\assesment\exceptions\NonexistentEntityException.class
+ti\webservice\ws\assesment\Mahasiswa.class
+ti\webservice\ws\assesment\Mahasiswa_.class
+ti\webservice\ws\assesment\MahasiswaJpaController.class
+ti\webservice\ws\assesment\Application.class
+ti\webservice\ws\assesment\DatabaseController.class
+ti\webservice\ws\assesment\ViewController.class
